@@ -2,7 +2,7 @@
 
 - **Problem Statement** - *Real-time Detection of Reel Traffic vs Non-reel Traffic in a Social-networking Application*
 - **Team name** - *Synapse Squad*
-- **Team members (Names)** - *NALAM VENKATA SURYA HARSHITH*, *MATTA PRIYUSHA*, *BONDALA MADHULIKA SREE*, *KOTHAPALLI SNEHITH REDDY* 
+- **Team members (Names)** - *NALAM VENKATA SURYA HARSHITH*, *MATTA PRIYUSHA*, *BONDADA MADHULIKA SREE*, *KOTHAPALLI SNEHITH REDDY* 
 - **Demo Video Link** - *(https://www.youtube.com/watch?v=OM2ceuoORro)*
 
 
